@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="41e301b9-c36c-4108-a60c-e28d31e30c7a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -69,11 +70,14 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> ffa408850b4255840da403c5c41ae8d3a893960c
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="72" />
     <option name="width" value="1294" />
     <option name="height" value="735" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -192,4 +196,6 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> ffa408850b4255840da403c5c41ae8d3a893960c
 </project>
